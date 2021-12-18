@@ -24,3 +24,15 @@ Shopify have a number of competitors including:
 - eComchain
 - Intershop
 - commercetools
+
+# Shopify Case Study #
+
+*Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?*
+
+Shopify has been an extremely succesful startup created by Tobias Lutke and Scott Lake as they were dissapointed with the current range of e-commerce products available on the market at the time.
+
+The company has excelled within the sapce due to its ease of accessibility allowing customers to open an online store in a few clicks by utilising its online store builder.
+
+By using cloud technology Shopify bears the responsibility of maintaining the technicial and security matters and allowed its merchants to focus on their online storefront.
+
+However extreme success does not come without its fair share of challenges, from issues regarding stability, speed and reliability for its users Shopify also faces issues regarding future development and fierce competion in the online market place. Particular competitors would include Amazon and marketplaces online such as Etsy.
