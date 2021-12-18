@@ -3,7 +3,7 @@
 
 ![shopifylogo](shopifylogo.png)
 
-<b>Shopify Background</B>
+## <b>Shopify Background</B>
 - Shopify is a multi-channel e-commerce company that allows sellers to create online stores with a few clicks and without using code. 
 - Shopify grew from 5 people in 2004 to 5,000 employees across the globe
 
@@ -12,8 +12,7 @@
 - From 2016 - 2018 Shopify contributed $183 billion in economic activity worldwide
 
 
-
-<b>Shopify's competitors:</B>
+## <b>Shopify's Competitors:</B>
 
 Shopify have a number of competitors including: 
 - BigCommerce
@@ -25,7 +24,9 @@ Shopify have a number of competitors including:
 - Intershop
 - commercetools
 
-# Shopify Case Study #
+
+
+## <b>Shopify Case Study</b> #
 
 *Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?*
 
