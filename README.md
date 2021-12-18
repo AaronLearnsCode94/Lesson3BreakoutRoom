@@ -12,7 +12,8 @@
 - From 2016 - 2018 Shopify contributed $183 billion in economic activity worldwide
 
 
-<b>Shopify's competitors?</B>
+
+<b>Shopify's competitors:</B>
 
 Shopify have a number of competitors including: 
 - BigCommerce
