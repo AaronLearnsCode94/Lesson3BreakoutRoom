@@ -38,8 +38,8 @@ By using cloud technology Shopify bears the responsibility of maintaining the te
 
 However extreme success does not come without its fair share of challenges, from issues regarding stability, speed and reliability for its users Shopify also faces issues regarding future development and fierce competion in the online market place. Particular competitors would include Amazon and marketplaces online such as Etsy.
 
-How does this company use technology to their advantage? 
-Why are they considered a FinTech company?
+*How does this company use technology to their advantage? 
+Why are they considered a FinTech company?*
 
 At its heart, Shopify acts as a website builder. This anchor tool that Shopify is centered around offers a graphic user interface (GUI)-driven way of building a website. No additional coding knowledge is necessary. Websites that are built using the Shopify site builder are also hosted on their web servers. To complete the roundup, Shopify has add-on applications that help eCommerce sites work. This gives them additional functionality needed, such as payment processing, inventory management, shopping cart features, handling of shipping, and more. 
 Shopify is the epitome of the embedded finance theory that’s been all the rage over the last year and a half in fintech. 
